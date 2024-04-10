@@ -23,5 +23,3 @@ This is a Simon game implemented using HTML, CSS, and JavaScript. Simon is a mem
 ## Play the Game
 
 You can play the game [here](https://vasanth165.github.io/Simon-game/).
-
-simon-game
