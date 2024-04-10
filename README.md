@@ -18,10 +18,10 @@ This is a Simon game implemented using HTML, CSS, and JavaScript. Simon is a mem
 
 ## Preview
 
-![Simon Game Preview](/path/to/preview/image.png)
+![Simon Game Preview](Screenshot/Screenshot_1.png)
 
 ## Play the Game
 
-You can play the game [here](link-to-your-game).
+You can play the game [here](https://vasanth165.github.io/Simon-game/).
 
 simon-game
